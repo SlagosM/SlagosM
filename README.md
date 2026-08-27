@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Susana
 
-<!--
-**SlagosM/SlagosM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniera Ambiental** con interés en el análisis y visualización de datos aplicados a la gestión y toma de decisiones.
 
-Here are some ideas to get you started:
+Actualmente estoy fortaleciendo mis habilidades en herramientas de análisis de datos como **Power BI, Power Query, DAX y Python**, complementándolas con mi experiencia en gestión y cumplimiento ambiental.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de interés
+
+- Análisis y visualización de datos
+- Power BI
+- Gestión y cumplimiento ambiental
+- Reportabilidad ambiental
+- Calidad y control de datos
+- Sistemas de información geográfica
+
+## Herramientas
+
+- Power BI
+- Power Query
+- DAX
+- Python
+- Excel
+- ArcGIS / QGIS
+
+## Proyecto destacado
+
+### 📊 Dashboard Ejecutivo SmartRetail - Power BI
+
+Dashboard interactivo desarrollado para analizar ventas, inventario y cumplimiento de metas, incorporando KPIs, filtros, segmentadores, jerarquías y elementos de exploración.
+
+➡️ [Ver proyecto](https://github.com/SlagosM/PowerBi-Dashboard-SmartRetail)
+
+## Sobre mí
+
+📍 Región de Valparaíso, Chile  
+🎓 Ingeniera Ambiental  
+🌱 Interés en integrar análisis de datos y gestión ambiental
